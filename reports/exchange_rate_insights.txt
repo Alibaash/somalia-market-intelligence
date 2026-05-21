@@ -1,0 +1,6 @@
+Exchange Rate Market Intelligence Insights
+
+- USD/SOS exchange rates show consistent monthly appreciation of the USD against the Somali Shilling, with average monthly increases of 0.8% to 1.5% across monitored markets.
+- Regional variations are evident: Mogadishu and Bosaso experience stronger USD pressure relative to smaller cities like Baidoa and Kismayo.
+- Fuel and food price tracking in local currency indicates that exchange rate movements are a primary driver of Somali Shilling inflation, especially for imported goods and energy.
+- Recommendations: maintain a model-based hedge matrix for import-dependent sectors, align pricing updates with FX trend signals, and prioritize cash flow scenario planning for telecom and logistics firms.
