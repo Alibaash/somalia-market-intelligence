@@ -1,6 +1,32 @@
-Exchange Rate Market Intelligence Insights
 
-- USD/SOS exchange rates show consistent monthly appreciation of the USD against the Somali Shilling, with average monthly increases of 0.8% to 1.5% across monitored markets.
-- Regional variations are evident: Mogadishu and Bosaso experience stronger USD pressure relative to smaller cities like Baidoa and Kismayo.
-- Fuel and food price tracking in local currency indicates that exchange rate movements are a primary driver of Somali Shilling inflation, especially for imported goods and energy.
-- Recommendations: maintain a model-based hedge matrix for import-dependent sectors, align pricing updates with FX trend signals, and prioritize cash flow scenario planning for telecom and logistics firms.
+📈 EXCHANGE RATE ANALYSIS - STRATEGIC INSIGHTS
+
+1. CURRENCY DEPRECIATION TREND
+   • SOS has depreciated 4.57% against USD over the analysis period
+   • This reflects broader currency pressures in the Somali economy
+   • Particularly affects import-dependent sectors and increases costs for essential goods
+
+2. VOLATILITY PATTERNS
+   • Exchange rate volatility averages 1.3776, indicating moderate market instability
+   • Peak volatility suggests periods of heightened economic uncertainty
+   • This creates hedging demands from businesses and investors
+
+3. MARKET TYPE DIFFERENTIALS
+   • Official and black market rates show significant divergence
+   • Suggests capital controls or official rate management
+   • Arbitrage opportunities exist between market segments
+
+4. REGIONAL VARIATIONS
+   • Most stable: Galkayo (σ=1.8738)
+   • Least stable: Beledweyne (σ=6.0028)
+   • Indicates different market depth and economic conditions across regions
+
+5. BUSINESS IMPLICATIONS
+   • Import companies should consider forward contracts to hedge currency risk
+   • Remittance flows are highly sensitive to exchange rate movements
+   • Tourism and international services revenue face headwinds from weak SOS
+
+6. POLICY RECOMMENDATIONS
+   • Monitor exchange rate pressure as leading indicator of inflation
+   • Consider interventions to reduce unnecessary volatility
+   • Strengthen market transparency and integration
